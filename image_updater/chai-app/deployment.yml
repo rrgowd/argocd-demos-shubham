@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: chai-app
-        image: rrgowd/char:1.0.0
+        image: rrgowd/chai-devops:1.0.0
         ports:
         - containerPort: 80
         env:
